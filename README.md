@@ -1,6 +1,6 @@
 # bank_holidays
 
-This is a task based app for aqgromalin
+This is a task based app for aqgromalin technical round
 
 ## Getting Started
 
